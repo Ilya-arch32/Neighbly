@@ -1,154 +1,150 @@
-Copyright (c) 2024 Neighbly
+Copyright (c) 2025 Neighbly
 
-NEIGHBLY - УСЛОВИЯ ИСПОЛЬЗОВАНИЯ И ЛИЦЕНЗИЯ
-
-================================================================================
-ВАЖНО: ВНИМАТЕЛЬНО ПРОЧИТАЙТЕ ЭТИ УСЛОВИЯ ПЕРЕД ИСПОЛЬЗОВАНИЕМ ПРИЛОЖЕНИЯ
-================================================================================
-
-Данное приложение является проприетарным программным обеспечением и 
-предоставляется исключительно для некоммерческого личного использования.
+NEIGHBLY - TERMS OF USE AND LICENSE
 
 ================================================================================
-1. РАЗРЕШЁННОЕ ИСПОЛЬЗОВАНИЕ
+IMPORTANT: READ THESE TERMS CAREFULLY BEFORE USING THE APPLICATION
 ================================================================================
 
-Вам РАЗРЕШАЕТСЯ:
-
-  ✓ Скачивать и устанавливать приложение на личные устройства
-  ✓ Использовать приложение для личных, некоммерческих целей
-  ✓ Делиться ссылкой на официальный репозиторий приложения
-  ✓ Сообщать об ошибках и предлагать улучшения через Issues
+This application is proprietary software and is provided solely for 
+non-commercial personal use.
 
 ================================================================================
-2. ЗАПРЕЩЁННЫЕ ДЕЙСТВИЯ
+1. PERMITTED USE
 ================================================================================
 
-Вам ЗАПРЕЩАЕТСЯ:
+You are PERMITTED to:
 
-  ✗ Использовать приложение в коммерческих целях
-  ✗ Продавать, сдавать в аренду или иным образом монетизировать приложение
-  ✗ Распространять модифицированные версии приложения
-  ✗ Декомпилировать, дизассемблировать или производить реверс-инжиниринг
-  ✗ Извлекать исходный код, ресурсы, изображения или шрифты из приложения
-  ✗ Использовать название "Neighbly" или логотип для своих проектов
-  ✗ Создавать производные работы на основе этого приложения
-  ✗ Удалять или изменять уведомления об авторских правах
-  ✗ Использовать встроенные API ключи для других целей
-  ✗ Перепубликовывать приложение в других магазинах приложений
+  ✓ Download and install the application on personal devices
+  ✓ Use the application for personal, non-commercial purposes
+  ✓ Share the link to the official application repository
+  ✓ Report bugs and suggest improvements via Issues
 
 ================================================================================
-3. ЗАЩИТА ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ
+2. PROHIBITED ACTIONS
 ================================================================================
 
-Все права на приложение, включая (но не ограничиваясь):
-  - Исходный код
-  - Дизайн интерфейса
-  - Графические элементы
-  - Алгоритмы и логика работы
-  - Название и товарный знак
+You are PROHIBITED from:
 
-принадлежат правообладателю и защищены законами об авторском праве и 
-международными договорами.
-
-================================================================================
-4. КОММЕРЧЕСКОЕ ЛИЦЕНЗИРОВАНИЕ
-================================================================================
-
-Если вы хотите использовать приложение в коммерческих целях, создать 
-производную работу или получить исключительные права, пожалуйста, 
-свяжитесь с нами для обсуждения коммерческой лицензии:
-
-  Email: leftookmakep@gmail.com
-  Тема: "Neighbly - Commercial License Request"
+  ✗ Using the application for commercial purposes
+  ✗ Selling, renting, or otherwise monetizing the application
+  ✗ Distributing modified versions of the application
+  ✗ Decompiling, disassembling, or reverse engineering the application
+  ✗ Extracting source code, resources, images, or fonts from the application
+  ✗ Using the name "Neighbly" or the logo for your own projects
+  ✗ Creating derivative works based on this application
+  ✗ Removing or altering copyright notices
+  ✗ Using embedded API keys for other purposes
+  ✗ Republishing the application on other app stores
 
 ================================================================================
-5. СТОРОННИЕ КОМПОНЕНТЫ
+3. INTELLECTUAL PROPERTY PROTECTION
 ================================================================================
 
-Данное приложение использует следующие сторонние сервисы:
+All rights to the application, including (but not limited to):
+  - Source code
+  - Interface design
+  - Graphic elements
+  - Algorithms and logic
+  - Name and trademark
+
+belong to the copyright holder and are protected by copyright laws and 
+international treaties.
+
+================================================================================
+4. COMMERCIAL LICENSING
+================================================================================
+
+If you wish to use the application for commercial purposes, create a 
+derivative work, or obtain exclusive rights, please contact us to discuss 
+a commercial license:
+
+  Email: sarkovvitala@gmail.com
+  Subject: "Neighbly - Commercial License Request"
+
+================================================================================
+5. THIRD-PARTY COMPONENTS
+================================================================================
+
+This application uses the following third-party services:
   - OpenRouter AI API
-  - EmailJS
-  - OpenWeatherMap API
   - Google Fonts
   - Material Icons
 
-Каждый из этих сервисов имеет собственные условия использования.
+Each of these services has its own terms of use.
 
 ================================================================================
-6. ОТКАЗ ОТ ГАРАНТИЙ
+6. DISCLAIMER OF WARRANTIES
 ================================================================================
 
-ПРИЛОЖЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, 
-ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ:
-  - Гарантиями товарной пригодности
-  - Гарантиями пригодности для конкретной цели
-  - Гарантиями отсутствия нарушений прав третьих лиц
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO:
+  - Warranties of merchantability
+  - Warranties of fitness for a particular purpose
+  - Warranties of non-infringement of third-party rights
 
-Вы используете приложение на свой собственный риск.
-
-================================================================================
-7. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
-================================================================================
-
-НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ ПРАВООБЛАДАТЕЛЬ НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ЗА:
-  - Любой прямой, косвенный, случайный или последующий ущерб
-  - Потерю данных или прибыли
-  - Прерывание работы или бизнеса
-
-возникающие в результате использования или невозможности использования 
-приложения, даже если правообладатель был предупреждён о возможности 
-такого ущерба.
+You use the application at your own risk.
 
 ================================================================================
-8. КОНФИДЕНЦИАЛЬНОСТЬ И СБОР ДАННЫХ
+7. LIMITATION OF LIABILITY
 ================================================================================
 
-Приложение может собирать анонимные данные использования для улучшения 
-качества работы. Отправляя запросы в приложении, вы соглашаетесь на 
-сбор следующих данных:
-  - Текст ваших сообщений в чате
-  - Ответы AI
-  - Технические данные (User Agent, разрешение экрана, язык браузера)
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR:
+  - Any direct, indirect, incidental, or consequential damages
+  - Loss of data or profit
+  - Business interruption
 
-Эти данные используются исключительно для аналитики и улучшения сервиса.
-
-================================================================================
-9. ИЗМЕНЕНИЕ УСЛОВИЙ
-================================================================================
-
-Правообладатель оставляет за собой право изменять данные условия в любое 
-время без предварительного уведомления. Продолжение использования приложения 
-после изменения условий означает ваше согласие с новыми условиями.
+arising out of the use or inability to use the application, even if the 
+copyright holder has been advised of the possibility of such damages.
 
 ================================================================================
-10. ПРЕКРАЩЕНИЕ ЛИЦЕНЗИИ
+8. PRIVACY AND DATA COLLECTION
 ================================================================================
 
-Данная лицензия автоматически прекращается при нарушении любого из 
-указанных условий. При прекращении лицензии вы обязаны:
-  - Немедленно прекратить использование приложения
-  - Удалить все копии приложения с ваших устройств
+The application may collect anonymous usage data to improve service 
+quality. By sending requests within the application, you consent to the 
+collection of the following data:
+  - The text of your chat messages
+  - AI responses
+  - Technical data (User Agent, screen resolution, browser language)
+
+This data is used solely for analytics and service improvement.
 
 ================================================================================
-11. ПРИМЕНИМОЕ ПРАВО
+9. CHANGES TO TERMS
 ================================================================================
 
-Данная лицензия регулируется законодательством Российской Федерации.
-Все споры подлежат разрешению в соответствии с законодательством РФ.
+The copyright holder reserves the right to modify these terms at any time 
+without prior notice. Continued use of the application after changes to the 
+terms constitutes your acceptance of the new terms.
 
 ================================================================================
-12. КОНТАКТЫ
+10. TERMINATION
 ================================================================================
 
-По вопросам лицензирования, сообщениям об ошибках или предложениям:
+This license terminates automatically upon violation of any of the specified 
+terms. Upon termination of the license, you must:
+  - Immediately cease using the application
+  - Delete all copies of the application from your devices
 
-  Email: leftookmakep@gmail.com
-  GitHub Issues: [ссылка на репозиторий]
+================================================================================
+11. GOVERNING LAW
+================================================================================
+
+This license is governed by the laws of the Russian Federation.
+All disputes are subject to resolution in accordance with the laws of the RF.
+
+================================================================================
+12. CONTACTS
+================================================================================
+
+For licensing inquiries, bug reports, or suggestions:
+
+  Email: sarkovvitala@gmail.com
+  Telegram: @Shelookslikefunn
 
 ================================================================================
 
-Используя данное приложение, вы подтверждаете, что прочитали, поняли и 
-согласны с вышеизложенными условиями.
+By using this application, you acknowledge that you have read, understood, and agree to the above terms.
 
-Последнее обновление: Ноябрь 2024
+Last updated: November 2025
